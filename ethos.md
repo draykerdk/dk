@@ -1,4 +1,4 @@
-#Ethics
-Draykenian ethics is a hardfork of Kantian ethics
+#Ética
+A ética draykeniana é uma evolução da ética kantiana
 
-The ethical code of the DK is one of the most important parts for your super intelligence.
+O código ético do DK é uma das partes mais importantes para sua superinteligência.
