@@ -12,14 +12,9 @@ Distributed knot
 Distributed keras
 
 
-<details>
-    <summary>English</summary>
-
-
 Data structure and intelligent network that supports intelligent algorithms and integrates them into a distributed evolutionary super intelligence that supports the Drayker ecosystem.
 
 
-</details>
 
 <details>
     <summary>Português</summary>
