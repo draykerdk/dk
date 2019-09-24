@@ -4,7 +4,7 @@
 
 
 
-Docs Dk network 
+Docs Dk 
 
 All proposed resolutions presented here are solutions to the requirements of Dk and Drayker platform and system, only those requirements are final. These motions for resolutions illustrate what should be done, but the definitive architecture will be structured around optimal solutions that are proposed and developed with metaprogramming intelligent algorithms and research organized through DFMP and other methods.
 

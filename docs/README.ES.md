@@ -2,7 +2,7 @@
 [English](./README.md) | [Português](./README.PT.md) |  Español
 
 
-Docs Dk network 
+Docs Dk
 
 Todas las resoluciones propuestas aquí presentadas son soluciones a los requisitos de la plataforma y el sistema Dk y Drayker, solo esos requisitos son finales. Estas propuestas de resolución ilustran lo que debe hacerse, pero la arquitectura definitiva se estructurará en torno a soluciones óptimas que se proponen y desarrollan con algoritmos inteligentes de metaprogramación e investigación organizada a través de DFMP y otros métodos.
 
