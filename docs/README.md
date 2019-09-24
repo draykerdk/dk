@@ -1,5 +1,8 @@
 # DK docs 
-[Português](./README.PT.md) | English | 
+[Português](./README.PT.md) | [Español](./README.ES.md) | English
+
+
+
 
 Docs Dk network 
 
