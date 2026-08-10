@@ -1,0 +1,33 @@
+schema_version: 1
+component:
+  id: dk
+  name: Dk
+  layer: KERNEL
+  artifact_type: architecture
+  problem: Define a distributed kernel able to compose data, algorithms and intelligence across the Drayker ecosystem.
+  scope:
+    - Public architecture and conceptual boundaries of the Dk kernel.
+    - Relationship between Dk Global, Dk Personal and Dk Local.
+  non_scope:
+    - A production-ready kernel implementation.
+    - Claims that Dk Global, Dk Personal or Dk Local are deployed services.
+  dependencies:
+    - bsdk
+    - dk-network
+    - living-cryptography
+  implementation:
+    level: none
+    scope: The repository currently publishes architecture documentation; it does not contain a released kernel implementation.
+    evidence:
+      - type: document
+        ref: docs/README.md
+  risks:
+    - Architecture language may be mistaken for implemented capability.
+    - Boundaries among Global, Personal and Local remain incomplete.
+  contributions:
+    availability: open
+    entrypoint: https://github.com/draykerdk/dk/issues
+  source_of_truth:
+    repository: https://github.com/draykerdk/dk
+    path: docs/README.md
+  last_reviewed: "2026-08-10"
