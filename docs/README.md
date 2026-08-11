@@ -2,6 +2,12 @@ Dk is the strategic and technological core of Drayker: a data structure and inte
 
 The name is deliberately overloaded — distributed **kernel**, distributed **knowledge**, distributed **knot**. It is the layer everything else is built against.
 
+## Why this exists
+
+Drayker is a way of working where people keep creating, discovering and learning while intelligence carries the rest, and what results reaches the work that produced it. Dk is the system half of that: the distributed, evolutionary intelligence the rest of the ecosystem stands on.
+
+The argument in full is on the [manifesto](https://drayker.org/manifesto/); the [economy page](https://drayker.org/economy/) states plainly what contributing here earns and what it does not.
+
 ## What Dk is made of
 
 | Layer | Repository |
@@ -21,7 +27,7 @@ Motions for resolution on Dk itself. All proposed resolutions presented here are
 
 ## Two scales
 
-Drayker describes Dk at two scales. **Dk Global** is the shared kernel of the ecosystem. **Dk Personal** is the same architecture meeting one person — personal context, self-knowledge, the direction of daily action. Both are described architecture and direction; neither is a released system. See the [ecosystem map](https://drayker.org/#org/dk).
+Drayker describes Dk at two scales. **Dk Global** is the shared kernel of the ecosystem. **[Dk Personal](https://personal.drayker.org)** is the same architecture meeting one person — personal context, self-knowledge, the direction of daily action. Both are described architecture and direction; neither is a released system. See the [ecosystem map](https://drayker.org/project/dk/).
 
 ## State of this documentation
 
@@ -29,7 +35,7 @@ A summary and a ground rule. The motions are referenced across the ecosystem but
 
 ## Contributing
 
-Open an issue. Issues small enough for one person to finish carry the `open-function` label and appear on the board at [drayker.org](https://drayker.org/#org/fn).
+Open an issue. Issues small enough for one person to finish carry the `open-function` label and appear on the board at [drayker.org](https://drayker.org/fn/).
 
 Other languages: [Português](./README.PT.md) · [Español](./README.ES.md) — both currently behind this English version.
 
