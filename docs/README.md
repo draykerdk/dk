@@ -47,7 +47,7 @@ The rule under everything: intelligence is the means, never the master. Dk organ
 | [Dknowledge](https://dknowledge.drayker.org) | Its memory: papers, architecture, decisions, evidence |
 | [Dk Personal](https://personal.drayker.org) | The same intelligence at the scale of one person |
 | [Dk Academy](https://academy.drayker.org) | Formation shaped to the profile; learning fed back |
-| [Dktron / funds](https://value.drayker.org) | Value allocation by category and cause |
+| [Value unit / funds](https://value.drayker.org) | Value allocation by category and cause — Dktron is one documented representation of the units |
 | [Distributed support](https://support.drayker.org) | Volunteer levels and income evaluated against profile |
 | [Open science](https://science.drayker.org) | Assisted analysis under professional review |
 | [Stations](https://stations.drayker.org) | Where the platform meets ground, managed by Dk |
