@@ -25,6 +25,12 @@ The argument in full is on the [manifesto](https://drayker.org/manifesto/); the 
 
 Drayker describes Dk at three scales. **[Dk Personal](https://personal.drayker.org)** is the intelligence meeting one person — personal context, self-knowledge, the direction of daily action. **Dk Local** specialises the same intelligence in one project, area or function. **Dk Global** is the collective intelligence that the federated learning of both is meant to add up to. Learning travels upward; personal context does not. All three are described architecture and direction; none of them is a released system. See the [ecosystem map](https://drayker.org/project/dk/).
 
+## What the name means
+
+Dk is the **distributed kernel** — and the documentation is specific about why. Dk is a complex **fractal** system: a network with a neural and intelligence core that is itself distributed, acting through **evolutionary knowledge graphs**. The fractal is the point, not a metaphor. What is true at one scale is true at the macro scale: **Dk Global has no single core** — it is the sum of every Dk of every kind in the network, concentrating federated intelligence. The kernel is not one thing in one place; it is a distributed structure that only exists as the whole.
+
+That is also what ties it to [Dknowledge](https://dknowledge.drayker.org): the evolutionary knowledge graphs are the systemic final form of the knowledge layer — the memory of the network, connected and evolving with it.
+
 ## How it fits the whole
 
 Dk is not the owner of the ecosystem — it is its organizer. Every layer of Drayker speaks to it, and that is the point: one intelligence that the whole system shares, so anything built here starts with what is already known instead of starting over.
