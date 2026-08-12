@@ -13,9 +13,9 @@ plugins:
   - jekyll-sitemap
 
 title: "Dk"
-description: "The distributed kernel — the data structure and intelligent network that supports the Drayker ecosystem."
+description: "The intelligence of Drayker — an agentic A.I., from a personal agent to a collective intelligence, standing on the kernel, the network, cryptography, identity and devices."
 
-dk_kicker: "Kernel"
+dk_kicker: "The intelligence"
 dk_subdomain: "dk.drayker.org"
 dk_repo: "https://github.com/draykerdk/dk"
 
