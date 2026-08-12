@@ -1,6 +1,6 @@
 # Dk
 
-The distributed kernel: a data structure and intelligent network that supports intelligent algorithms and integrates them into a distributed, evolutionary intelligence beneath the whole ecosystem.
+The intelligence of Drayker: an agentic A.I., from a personal agent to a collective intelligence, standing on the kernel, the network, cryptography, identity and devices as one distributed architecture. Dk is not the system — Drayker is the system. Dk is the intelligence that system is designed around; a means, never the master.
 
 **Documentation: [dk.drayker.org](https://dk.drayker.org)** — published by GitHub Pages from [`docs/`](./docs), which is where the material for this component lives.
 
