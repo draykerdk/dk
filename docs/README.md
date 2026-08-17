@@ -1,6 +1,6 @@
-Dk is the intelligence of Drayker: an agentic A.I., from a personal agent to a collective intelligence, standing on the kernel, the network, cryptography, identity and devices as one distributed architecture.
+Dk is the distributed intelligence of Drayker: from one member's continuous representation, through specialised local intelligence, to global distributed synthesis, carried by one fractal architecture across kernel, network, cryptography, identity, knowledge and devices.
 
-The name carries what it is for — distributed **kernel**, distributed **knowledge**, distributed **knot**: the layer everything else is built against. Dk is not the system; Drayker is the system. Dk is the intelligence that system is designed around — a means, never the master.
+Its technical name is **Distributed Kernel**. That names the architecture Dk is built through, not the totality of what Dk is. The name also carries distributed **knowledge** and distributed **knot**: memory, relations and intelligence composed across scales. Dk is not the system; Drayker is the system. Dk is the intelligence that system is designed around — a means, never the master.
 
 ## Why this exists
 
@@ -23,11 +23,11 @@ The argument in full is on the [manifesto](https://drayker.org/manifesto/); the 
 
 ## Three scales
 
-Drayker describes Dk at three scales. **[Dk Personal](https://personal.drayker.org)** is the intelligence meeting one person — personal context, self-knowledge, the direction of daily action. **Dk Local** specialises the same intelligence in one project, area or function. **Dk Global** is the collective intelligence that the federated learning of both is meant to add up to. Learning travels upward; personal context does not. All three are described architecture and direction; none of them is a released system. See the [ecosystem map](https://drayker.org/project/dk/).
+Drayker describes Dk at three scales. **[Dk Personal](https://personal.drayker.org)** is one member's continuous representation — identity, memory, self-knowledge, commitments and the direction of daily action carried across models and interfaces. **Dk Local** specialises the same intelligence in one project, area or function. **Dk Global** is the distributed synthesis that the federated learning of both is meant to add up to. Learning travels upward; personal context does not. All three are described architecture and direction; none of them is a released system. See the [ecosystem map](https://drayker.org/project/dk/).
 
 ## What the name means
 
-Dk is the **distributed kernel** — and the documentation is specific about why. Dk is a complex **fractal** system: a network with a neural and intelligence core that is itself distributed, acting through **evolutionary knowledge graphs**. The fractal is the point, not a metaphor. What is true at one scale is true at the macro scale: **Dk Global has no single core** — it is the sum of every Dk of every kind in the network, concentrating federated intelligence. The kernel is not one thing in one place; it is a distributed structure that only exists as the whole.
+**Distributed Kernel is Dk's technical name and architectural principle.** It describes a complex **fractal** system: a network whose neural and intelligence cores are themselves distributed, acting through **evolutionary knowledge graphs**. It does not reduce Dk to a low-level kernel. The fractal is the point, not a metaphor. What is true at one scale is true at the macro scale: **Dk Global has no single core** — it is the synthesis of every Dk in the network. The kernel is not one thing in one place; it is a distributed structure that only exists as the whole.
 
 That is also what ties it to [Dknowledge](https://dknowledge.drayker.org): the evolutionary knowledge graphs are the systemic final form of the knowledge layer — the memory of the network, connected and evolving with it.
 
@@ -41,7 +41,7 @@ Dk is not the owner of the ecosystem — it is its organizer. Every layer of Dra
 
 The method gives Dk the shape of work: DFM cuts any issue into functions small enough for one person — or one agent — to finish, and Dk distributes them by profile and analysed inputs. Identity makes it attributable: UID ties every contribution to a person, and consent is the condition for anything touching personal data. The network is the ground it runs on, the kernel (assembled from BSDK) is what it stands on, and Living Cryptography protects the tunnels between them. Dknowledge is its memory — papers, architecture, decisions and evidence staying traceable to their sources instead of scattered.
 
-Downward and outward, the same intelligence reaches the rest of the system. Dk Personal is its scale for one person; the Academy shapes formation to the profile and feeds what people learn back into it. It manages the funds and the value unit, allocating donations by category and cause. It evaluates volunteer levels and the universal basic income against profile, identity and participation. Open science uses it for assisted analysis under professional review. Stations and embassies run their platform on it, and the volunteers' portal is its first rough version, alive today.
+Downward and outward, the same intelligence reaches the rest of the system. Dk Personal is its scale for one member; the Academy shapes formation to the profile and feeds what people learn back into it. Dk can observe needs, model scenarios and recommend how funds or value rules might serve declared purposes, but it does not own resources or decide their allocation: accountable member governance does. The same boundary applies to support — intelligence may help assess evidence and coordinate capacity, while rights and distribution rules remain constitutional human decisions. Open science uses it for assisted analysis under professional review. Stations and embassies connect it to local contexts, and PAP is the environment where intentions, projects and applications are meant to live.
 
 The rule under everything: intelligence is the means, never the master. Dk organizes to free — the will to potential of every person is the end.
 
@@ -57,8 +57,8 @@ The rule under everything: intelligence is the means, never the master. Dk organ
 | [Dknowledge](https://dknowledge.drayker.org) | Its memory: papers, architecture, decisions, evidence |
 | [Dk Personal](https://personal.drayker.org) | The same intelligence at the scale of one person |
 | [Dk Academy](https://academy.drayker.org) | Formation shaped to the profile; learning fed back |
-| [Value unit / funds](https://value.drayker.org) | Value allocation by category and cause — Dktron is one documented representation of the units |
-| [Distributed support](https://support.drayker.org) | Volunteer levels and income evaluated against profile |
+| [Value unit / funds](https://value.drayker.org) | Dk models and recommends; member governance decides how common resources follow declared purposes |
+| [Distributed support](https://support.drayker.org) | Common capacity governed by member-defined rights, needs and accountable evidence |
 | [Open science](https://science.drayker.org) | Assisted analysis under professional review |
 | [Stations](https://stations.drayker.org) | Where the platform meets ground, managed by Dk |
 | [OSDK](https://osdk.drayker.org) | Devices coupled to the network, integrated via API |
