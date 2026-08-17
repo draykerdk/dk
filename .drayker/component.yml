@@ -4,9 +4,9 @@ component:
   name: Dk
   layer: KERNEL
   artifact_type: architecture
-  problem: Define a distributed kernel able to compose data, algorithms and intelligence across the Drayker ecosystem.
+  problem: Define Dk as distributed intelligence across personal, local and global scales, carried by a Distributed Kernel architecture able to compose data, knowledge, algorithms and intelligence.
   scope:
-    - Public architecture and conceptual boundaries of the Dk kernel.
+    - Public architecture and conceptual boundaries of Dk as distributed intelligence and of Distributed Kernel as its technical architecture.
     - Relationship between Dk Global, Dk Personal and Dk Local.
   non_scope:
     - A production-ready kernel implementation.
