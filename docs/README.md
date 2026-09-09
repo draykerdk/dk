@@ -1,10 +1,18 @@
-Dk is the distributed intelligence of Drayker: from one member's continuous representation, through specialised local intelligence, to global distributed synthesis, carried by one fractal architecture across kernel, network, cryptography, identity, knowledge and devices.
+> Intelligence that connects personal context with shared knowledge.
 
-Its technical name is **Distributed Kernel**. That names the architecture Dk is built through, not the totality of what Dk is. The name also carries distributed **knowledge** and distributed **knot**: memory, relations and intelligence composed across scales. Dk is not the system; Drayker is the system. Dk is the intelligence that system is designed around — a means, never the master.
+Dk is the proposed intelligence of Drayker. It connects personal agents, specialised systems and collective synthesis so that knowledge can support decisions at the scale where they matter.
+
+The architecture connects specialised capabilities through shared interfaces while preserving the distinction between personal context, project knowledge and public evidence.
+
+The aim is to expand what people can understand and do, with human authority over the purposes and decisions that intelligence serves.
+
+## A practical example
+
+A research group could build on an existing model while each participant controls which parts of their personal context enter the collaboration. This is an illustration of the proposed design.
 
 ## Why this exists
 
-Drayker is a way of working where people keep creating, discovering and learning while intelligence carries the rest, and what results reaches the work that produced it. Every person is carrying something they never had the conditions to use; Dk exists to build those conditions. Work and study converge, the repetitive load goes to the machines, and what stays with people is the creating, the discovering and the learning — the part no one should want to automate away.
+Every person is carrying something they never had the conditions to use; Dk exists to build those conditions. Work and study converge, the repetitive load goes to the machines, and what stays with people is the creating, the discovering and the learning — the part no one should want to automate away.
 
 The argument in full is on the [manifesto](https://drayker.org/manifesto/); the [economy page](https://drayker.org/economy/) states plainly what contributing here earns and what it does not.
 

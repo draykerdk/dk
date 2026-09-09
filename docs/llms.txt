@@ -1,6 +1,6 @@
 # Dk
 
-> The intelligence of Drayker — an agentic A.I., from a personal agent to a collective intelligence, standing on the kernel, the network, cryptography, identity and devices.
+> Dk is the proposed intelligence of Drayker. It connects personal agents, specialised systems and collective synthesis so that knowledge can support decisions at the scale where they matter.
 
 Dk is a public component of Drayker. Drayker is the system; Dk is its intelligence; Dk Network is its network.
 
