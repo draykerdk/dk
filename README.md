@@ -1,6 +1,6 @@
 # Dk
 
-The distributed intelligence of Drayker: from one member's continuous representation, through specialised local intelligence, to global distributed synthesis. **Distributed Kernel is Dk's technical name and architectural principle; it is not the limit of what Dk is.** Dk is not the system. Drayker is the system. Dk is the intelligence that system is designed around — a means, never the master.
+Dk is the proposed intelligence of Drayker. It connects personal agents, specialised systems and collective synthesis so that knowledge can support decisions at the scale where they matter. The aim is to expand what people can understand and do, with human authority over the purposes and decisions that intelligence serves.
 
 **Documentation: [dk.drayker.org](https://dk.drayker.org)**. Published by GitHub Pages from [`docs/`](./docs), which is where the material for this component lives.
 

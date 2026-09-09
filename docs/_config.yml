@@ -13,7 +13,7 @@ plugins:
   - jekyll-sitemap
 
 title: "Dk"
-description: "The intelligence of Drayker — an agentic A.I., from a personal agent to a collective intelligence, standing on the kernel, the network, cryptography, identity and devices."
+description: "Intelligence that connects personal context with shared knowledge. Dk is the proposed intelligence of Drayker. It connects personal agents, specialised systems and collective synthesis so that knowledge can support decisions at the scale where they matter."
 
 dk_kicker: "The intelligence"
 dk_subdomain: "dk.drayker.org"
