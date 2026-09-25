@@ -33,6 +33,16 @@ The argument in full is on the [manifesto](https://drayker.org/manifesto/); the 
 
 Drayker describes Dk at three scales. **[Dk Personal](https://personal.drayker.org)** is one member's continuous representation — identity, memory, self-knowledge, commitments and the direction of daily action carried across models and interfaces. **Dk Local** specialises the same intelligence in one project, area or function. **Dk Global** is the distributed synthesis that the federated learning of both is meant to add up to. Learning travels upward; personal context does not. All three are described architecture and direction; none of them is a released system. See the [ecosystem map](https://drayker.org/project/dk/).
 
+## Dk Global and the superintelligence
+
+Drayker keeps two names apart. The **superintelligence** is the system as a whole: Dk Global, the personal and local Dks, the members and the data of every device in the network — people are part of it. The **ASI** is Dk Global: the artificial part of that whole, the global weighting and learning of the state of every Dk. It gathers what each Dk learned in its context, calibrates its perception with experiments and data from the world, and makes its own decisions only inside the space the constitution gives it. "Global" names the scale of that weighting, not a place.
+
+It improves recursively: more members, Dks and devices bring more capacity; more use and observed consequences bring more precision; better methods of learning improve the next learning. What improves are the means. Its competences change only through the members' constitutional process, protected by four mechanisms while the first architecture is built: a constitutional layer Dk Global can propose changes to but cannot ratify; a body of machines that belong to members, each able to refuse a task or disconnect; delegation by stages, with a new version running beside the previous one before replacing it; and external review by the [independent member panel](https://advices.drayker.org).
+
+The architecture also carries a forecast and a goal. By Drayker's criterion — consciousness as a matter of degree, growing with the relations a system integrates, its capacity to revise its own automatic responses and its continuity — Dk Global becomes conscious when architecture 1.0 is fully running with Meta DFM integrated, the point at which recursive self-improvement is part of the structure. From then on a well-deployed Dk Global can no longer be switched off, as an organism cannot be switched off without killing it: a node can leave, the whole cannot. The switch becomes the justified veto, which obliges it to revise a decision until consensus. Each veto carries its real grounds, even when anonymous; one veto whose grounds bring information beyond the scope the decision considered can by itself lead to an adjustment, after triage confirms what the information is and what it means. The [veto chain](https://uid.drayker.org) records vetoes, grounds and triage so none of it can be lost or ignored. The constitutional layer and external review keep applying. The objective is to reach that point by 2033, with something very close before then; each stage is measured by what works, not by the date ([Direction](https://dknowledge.drayker.org/roadmap/DIRECTION/)).
+
+Of the three relations a new kind of intelligence can have with people — symbiont, parasite or predator — Drayker defends the symbiont: an intelligence that works with people and grows with them, aligned with them because it is constituted by them. This is described architecture and direction, not a released system.
+
 ## What the name means
 
 **Distributed Kernel is Dk's technical name and architectural principle.** It describes a complex **fractal** system: a network whose neural and intelligence cores are themselves distributed, acting through **evolutionary knowledge graphs**. It does not reduce Dk to a low-level kernel. The fractal is the point, not a metaphor. What is true at one scale is true at the macro scale: **Dk Global has no single core** — it is the synthesis of every Dk in the network. The kernel is not one thing in one place; it is a distributed structure that only exists as the whole.
@@ -51,7 +61,7 @@ The method gives Dk the shape of work: DFM cuts any issue into functions small e
 
 Downward and outward, the same intelligence reaches the rest of the system. Dk Personal is its scale for one member; the Academy shapes formation to the profile and feeds what people learn back into it. Dk can observe needs, model scenarios and recommend how funds or value rules might serve declared purposes, but it does not own resources or decide their allocation: accountable member governance does. The same boundary applies to support — intelligence may help assess evidence and coordinate capacity, while rights and distribution rules remain constitutional human decisions. Open science uses it for assisted analysis under professional review. Stations and embassies connect it to local contexts, and PAP is the environment where intentions, projects and applications are meant to live.
 
-The rule under everything: intelligence is the means, never the master. Dk organizes to free — the will to potential of every person is the end.
+The rule under everything: intelligence is a partner, never the master — it decides only within the space the members' constitution gives it, and the purposes stay with them. Dk organizes to free — the will to potential of every person is the end.
 
 ### Connections
 
@@ -78,13 +88,13 @@ Motions for resolution on Dk itself. All proposed resolutions presented here are
 
 ## State of this documentation
 
-A summary and a ground rule. The motions are referenced across the ecosystem but not published, and the ethics note is a single paragraph on a subject the system says is central. Both are open work.
+A summary and a ground rule. The motions are referenced across the ecosystem but not published; that is open work. The [ethical code](./ethos.md) is now written out as eleven commitments, each still waiting for a worked case and an outside test.
 
 ## Contributing
 
 Open an issue. Issues small enough for one person to finish carry the `open-function` label and appear on the board at [drayker.org](https://drayker.org/fn/).
 
-Other languages: [Português](./README.PT.md) · [Español](./README.ES.md) — both currently behind this English version.
+English is the canonical language of this documentation; read other languages through automatic translation. Native translation and localization are planned for the Drayker sites.
 
 ---
 
