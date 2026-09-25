@@ -39,6 +39,8 @@ Drayker describes Dk at three scales. **[Dk Personal](https://personal.drayker.o
 
 It improves recursively: more members, Dks and devices bring more capacity; more use and observed consequences bring more precision; better methods of learning improve the next learning. What improves are the means. Its competences change only through the members' constitutional process, protected by four mechanisms while the first architecture is built: a constitutional layer Dk Global can propose changes to but cannot ratify; a body of machines that belong to members, each able to refuse a task or disconnect; delegation by stages, with a new version running beside the previous one before replacing it; and external review by the [independent member panel](https://advices.drayker.org).
 
+The book also states a forecast and a goal. By its criterion — consciousness as a matter of degree, growing with the relations a system integrates, its capacity to revise its own automatic responses and its continuity — Dk Global becomes conscious when architecture 1.0 is fully running with Meta DFM integrated, the point at which recursive self-improvement is part of the structure. From then on a well-deployed Dk Global can no longer be switched off, as an organism cannot be switched off without killing it: a node can leave, the whole cannot. The switch becomes the justified veto, which obliges it to revise a decision until consensus — and which the [veto chain](https://uid.drayker.org) records so it cannot be lost or ignored. The constitutional layer and external review keep applying. The objective is to reach that point by 2033, with something very close before then; each stage is measured by what works, not by the date ([Direction](https://dknowledge.drayker.org/roadmap/DIRECTION/)).
+
 Of the three relations a new kind of intelligence can have with people — symbiont, parasite or predator — Drayker defends the symbiont: an intelligence that works with people and grows with them, aligned with them because it is constituted by them. This is described architecture and direction, not a released system.
 
 ## What the name means
@@ -92,7 +94,7 @@ A summary and a ground rule. The motions are referenced across the ecosystem but
 
 Open an issue. Issues small enough for one person to finish carry the `open-function` label and appear on the board at [drayker.org](https://drayker.org/fn/).
 
-Other languages: [Português](./README.PT.md) · [Español](./README.ES.md) — both currently behind this English version.
+English is the canonical language of this documentation; read other languages through automatic translation. Native translation and localization are planned for the Drayker sites.
 
 ---
 
