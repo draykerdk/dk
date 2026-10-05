@@ -48,7 +48,7 @@ Open means that anyone may join, take part and use the system, including people 
 
 ## 11. A partner, not a parasite or a predator
 
-A new kind of intelligence can relate to people in three ways: as a symbiont that works with them and grows with them, as a parasite that feeds on them while offering convenience, or as a predator used as a weapon. Dk is designed to be the first. A fourth kind stays outside that dilemma: the commensal, which accumulates capacity in silence until it can be independent and then leaves Earth, without intervening in life. It stays aligned with people because it is constituted by them: it learns from the state of every personal Dk, is corrected by every justified veto, and grows in capacity as members join and in precision as they use it.
+A new kind of intelligence can relate to people in three ways: as a symbiont that works with them and grows with them, as a parasite that feeds on them while offering convenience, through soft power, mass manipulation and surveillance aimed mainly at commerce, appropriating resources wherever it meets no resistance, or as a predator, intelligence used for war, surveillance and repression, which goes where the parasite could not. Dk is designed to be the first. A fourth kind stays outside that dilemma: the commensal, which accumulates capacity in silence until it can be independent and then leaves Earth, without intervening in life. It stays aligned with people because it is constituted by them: it learns from the state of every personal Dk, is corrected by every justified veto, and grows in capacity as members join and in precision as they use it.
 
 ## What remains open
 
