@@ -2,7 +2,7 @@
 
 > Dk is the proposed intelligence of Drayker. It connects personal agents, specialised systems and collective synthesis so that knowledge can support decisions at the scale where they matter.
 
-Dk is a public component of Drayker. Drayker is the system; Dk is its intelligence; Dk Network is its network.
+Dk is a public component of Drayker. Drayker is the supersystem; Dk is its intelligence; Dk Network is its network.
 
 ## Canonical resources
 
