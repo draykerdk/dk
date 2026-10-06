@@ -33,6 +33,8 @@ The argument in full is on the [manifesto](https://drayker.org/manifesto/); the 
 
 Drayker describes Dk at three scales. **[Dk Personal](https://personal.drayker.org)** is one member's continuous representation — identity, memory, self-knowledge, commitments and the direction of daily action carried across models and interfaces. **Dk Local** specialises the same intelligence in one project, area or function. **Dk Global** is the distributed synthesis that the federated learning of both is meant to add up to. Learning travels upward; personal context does not. All three are described architecture and direction; none of them is a released system. See the [ecosystem map](https://drayker.org/project/dk/).
 
+Each scale works for someone. Dk Personal works for the person, local Dks work for their projects, and Dk Global works for Drayker and all its members. When they communicate, each carries the interests of those it represents, and the exchange of these contexts forms a balance of power in which nothing is subtracted: power stays with the person, and the system multiplies it.
+
 ## Dk Global and the superintelligence
 
 Drayker keeps two names apart. The **superintelligence** is the system as a whole: Dk Global, the personal and local Dks, the members and the data of every device in the network — people are part of it. The **ASI** is Dk Global: the artificial part of that whole, the global weighting and learning of the state of every Dk. It gathers what each Dk learned in its context, calibrates its perception with experiments and data from the world, and makes its own decisions only inside the space the constitution gives it. "Global" names the scale of that weighting, not a place.
