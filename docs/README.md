@@ -33,7 +33,15 @@ The argument in full is on the [manifesto](https://drayker.org/manifesto/); the 
 
 Drayker describes Dk at three scales. **[Dk Personal](https://personal.drayker.org)** is one member's continuous representation — identity, memory, self-knowledge, commitments and the direction of daily action carried across models and interfaces. **Dk Local** specialises the same intelligence in one project, area or function. **Dk Global** is the global version of the Dks: partly the synthesis their federated learning adds up to, and partly its own kernels, running in parallel like the regions of a brain, in a unified topology. Learning travels upward; personal context does not. All three are described architecture and direction; none of them is a released system. See the [ecosystem map](https://drayker.org/project/dk/).
 
-Each scale works for someone. Dk Personal works for the person, local Dks work for their projects, and Dk Global works for Drayker and all its members. When they communicate, each carries the interests of those it represents, and the exchange of these contexts forms a balance of power in which nothing is subtracted: power stays with the person, and the system multiplies it. This is how a symbiotic system works. No one has to delegate their own power, hand it over for convenience or let it be taken in order to be part of something larger. The person assumes it, in the direction they choose, and the system multiplies it.
+Each scale works for someone. Dk Personal works for the person, local Dks work for their projects, and Dk Global works for Drayker and all its members. When they communicate, each carries the interests of those it represents, in three steps: Dk Personal brings the context the person has authorized, the local Dks relate what changed, and the synthesis produces an exception, a combination or a revision of the rule. The exchange of these contexts forms a balance of power in which nothing is subtracted: power stays with the person, and the system multiplies it. This is how a symbiotic system works. No one has to delegate their own power, hand it over for convenience or let it be taken in order to be part of something larger. The person assumes it, in the direction they choose, and the system multiplies it.
+
+Each scale pairs a Dk with its own Dknowledge, and the scales form one sequence:
+
+1. **Dk Personal** + personal Dknowledge
+2. **Dk Local** + the Dknowledge of the project
+3. **Dk Global** + global Dknowledge
+
+The way back is what multiplies the person's power: synthesis, coordination and capacity return to the member as new possibilities.
 
 Local Dks promote their projects: they bring what each project delivered and needs to the system's priorities and seek resources from the funds. Dk Personal does the same for the person, beyond the anonymous background exchange, as far as the person authorizes. The arguments are always material, so it is influence rather than persuasion. Underneath, it is a symbolic exchange, which Dk Global's federated learning relates and weighs: symbolic engineering done in the open, in the mathematics of a complex system. The maturity of each Dknowledge, personal or of a project, weighs more than computation in how precise this is.
 
