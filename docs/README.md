@@ -71,6 +71,8 @@ That is also what ties it to [Dknowledge](https://dknowledge.drayker.org): the e
 
 Dk is made of **intelligence cores** — in the spirit of mixture-of-experts for LLMs, but an architecture of its own. Each scale is a core connected to its own knowledge: **Dk Personal** is the mini version, connected to the person's personal Dknowledge; **Dk Global** is the full version, connected to global Dknowledge; and every organization and project carries its own Dknowledge connected to a specialized Dk. [BSDK](https://bsdk.drayker.org) assembles the pieces of personalized, evolutionary intelligence — the base structure is what lets a core be composed, revised and carried.
 
+Dk thinks in two systems: a fast one, Dknowledge, which retrieves knowledge, memories and reasoning already done, and the kernel core, slower and heavier in computation, which finds new solutions, reasons and holds attention to carry out new actions.
+
 ## How it fits the whole
 
 Dk is not the owner of the ecosystem — it is its organizer. Every layer of Drayker speaks to it, and that is the point: one intelligence that the whole system shares, so anything built here starts with what is already known instead of starting over.
