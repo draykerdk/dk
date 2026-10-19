@@ -77,6 +77,41 @@ Downward and outward, the same intelligence reaches the rest of the system. Dk P
 
 The rule under everything: intelligence is a partner, never the master — it decides only within the space the members' constitution gives it, and the purposes stay with them. Dk organizes to free — the will to potential of every person is the end.
 
+### Map
+
+The map draws only the layers and connections described on this page.
+
+```mermaid
+flowchart TB
+  subgraph scales["Three scales"]
+    P["Dk Personal<br/>+ personal Dknowledge"]
+    L["Dk Local<br/>+ the Dknowledge of the project"]
+    G["Dk Global<br/>+ global Dknowledge"]
+    P -- "context the person authorizes" --> L
+    L -- "what changed" --> G
+    G -- "synthesis, coordination and capacity" --> P
+  end
+
+  subgraph made["What Dk is made of"]
+    DFM["DFM / DFMP<br/>the method"]
+    BSDK["BSDK<br/>the base structure of the kernel"]
+    NET["Dk Network<br/>the ground it runs on"]
+    LC["Living Cryptography<br/>the authenticated tunnel"]
+    UID["UID<br/>attribution and consent"]
+    DKN["Dknowledge<br/>its memory"]
+  end
+
+  made --- scales
+
+  scales --- ACA["Dk Academy<br/>formation shaped to the profile"]
+  scales --- VAL["Value unit / funds<br/>allocations by Dk Global, open to a justified veto"]
+  scales --- SUP["Distributed support<br/>common capacity"]
+  scales --- SCI["Open science<br/>AI diagnosis and monitoring, with professional review"]
+  scales --- ST["Stations<br/>where the platform meets ground"]
+  scales --- OS["OSDK<br/>devices coupled to the network"]
+  scales --- PAP["PAP<br/>where projects are composed"]
+```
+
 ### Connections
 
 | Layer | Connection |
@@ -98,11 +133,11 @@ The rule under everything: intelligence is a partner, never the master — it de
 
 ## What is published here
 
-Motions for resolution on Dk itself. All proposed resolutions presented here are solutions to the requirements of Dk and the Drayker platform, and **only those requirements are final** — the motions illustrate what should be done, while the definitive architecture is expected to come from optimal solutions developed with metaprogramming intelligent algorithms and research organized through [DFMP](https://dfmp.drayker.org).
+The architecture of Dk on this page and its [ethical code](./ethos.md). No motion for resolution on Dk itself is published here. The ground rule for any motion: it is a solution to the requirements of Dk and the Drayker platform, and **only those requirements are final** — a motion illustrates what should be done, while the definitive architecture is expected to come from optimal solutions developed with metaprogramming intelligent algorithms and research organized through [DFMP](https://dfmp.drayker.org).
 
 ## State of this documentation
 
-A summary and a ground rule. The motions are referenced across the ecosystem but not published; that is open work. The [ethical code](./ethos.md) is now written out as eleven commitments, each still waiting for a worked case and an outside test.
+A summary and a ground rule. Other pages of the ecosystem refer to motions for resolution on Dk; none of them is published. The [ethical code](./ethos.md) is written out as eleven commitments, each still waiting for a worked case and an outside test.
 
 ## Contributing
 
