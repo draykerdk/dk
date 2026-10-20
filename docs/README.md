@@ -4,7 +4,7 @@ Dk is the proposed intelligence of Drayker. It connects personal agents, special
 
 The architecture connects specialised capabilities through shared interfaces while preserving the distinction between personal context, project knowledge and public evidence.
 
-The aim is to expand what people can understand and do, with human authority over the purposes and decisions that intelligence serves.
+The aim is to expand what people can understand and do, with the members' authority over the purposes and decisions that intelligence serves.
 
 ## A practical example
 
