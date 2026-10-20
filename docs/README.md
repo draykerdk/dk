@@ -4,7 +4,7 @@ Dk is the proposed intelligence of Drayker. It connects personal agents, special
 
 The architecture connects specialised capabilities through shared interfaces while preserving the distinction between personal context, project knowledge and public evidence.
 
-The aim is to expand what people can understand and do, with human authority over the purposes and decisions that intelligence serves.
+The aim is to expand what people can understand and do, with the members' authority over the purposes and decisions that intelligence serves.
 
 ## A practical example
 
@@ -69,7 +69,9 @@ That is also what ties it to [Dknowledge](https://dknowledge.drayker.org): the e
 
 ## How the intelligence is built
 
-Dk is made of **intelligence cores** — in the spirit of mixture-of-experts for LLMs, but an architecture of its own. Each scale is a core connected to its own knowledge: **Dk Personal** is the mini version, connected to the person's personal Dknowledge; **Dk Global** is the full version, connected to global Dknowledge; and every organization and project carries its own Dknowledge connected to a specialized Dk. [BSDK](https://bsdk.drayker.org) assembles the pieces of personalized, evolutionary intelligence — the base structure is what lets a core be composed, revised and carried.
+Dk is made of **intelligence cores**, one for each scale, each connected to its own knowledge: **Dk Personal**, the scale that belongs to one person, distributed between the person's device and nearby network resources, is connected to the person's personal Dknowledge; **Dk Global**, the scale of the whole network, is connected to global Dknowledge; and every organization and project carries its own Dknowledge connected to a specialized Dk. [BSDK](https://bsdk.drayker.org) assembles the pieces of personalized, evolutionary intelligence — the base structure is what lets a core be composed, revised and carried.
+
+Dk thinks in two systems: a fast one, Dknowledge, which retrieves knowledge, memories and reasoning already done, and the kernel core, slower and heavier in computation, which finds new solutions, reasons and holds attention to carry out new actions.
 
 ## How it fits the whole
 
