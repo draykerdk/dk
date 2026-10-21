@@ -1,6 +1,6 @@
 # Dk
 
-> Dk is the proposed intelligence of Drayker. It connects personal agents, specialised systems and collective synthesis so that knowledge can support decisions at the scale where they matter.
+> Dk is the proposed intelligence of Drayker. It works at three scales, personal, local and global, so that knowledge can support decisions at the scale where they matter.
 
 Dk is a public component of Drayker. Drayker is the supersystem; Dk is its intelligence; Dk Network is its network.
 
