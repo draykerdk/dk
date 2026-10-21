@@ -24,7 +24,7 @@ A prediction about a person does not become a consequence for that person by its
 
 ## 5. Context stays where it was lived
 
-What rises from a personal Dk to shared learning is reasoning, symbols, ontologies, public knowledge and patterns that transfer to other situations — not a biography. Raw personal context stays at its origin; sharing beyond that is a deliberate, authorized act that can be withdrawn. What a person's agent knows about them stays with them, and not every development of a person has to become useful to the network.
+What rises from a personal Dk to shared learning is reasoning, symbols, ontologies, public knowledge and patterns that transfer to other situations — not a biography. Raw personal context stays at its origin; sharing beyond that is a deliberate, authorized act that can be withdrawn. What the personal Dk knows about a person stays with them, and not every development of a person has to become useful to the network.
 
 ## 6. Attention is not a resource to capture
 
