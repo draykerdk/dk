@@ -7,10 +7,10 @@ component:
   problem: Define Dk as distributed intelligence across personal, local and global scales, carried by a Distributed Kernel architecture able to compose data, knowledge, algorithms and intelligence.
   scope:
     - Public architecture and conceptual boundaries of Dk as distributed intelligence and of Distributed Kernel as its technical architecture.
-    - Relationship between Dk Global, Dk Personal and Dk Local.
+    - Relationship between the global Dk, the personal Dk and the local Dk.
   non_scope:
     - A production-ready kernel implementation.
-    - Claims that Dk Global, Dk Personal or Dk Local are deployed services.
+    - Claims that the global Dk, the personal Dk or the local Dk are deployed services.
   dependencies:
     - bsdk
     - dk-network
@@ -33,4 +33,4 @@ component:
   source_of_truth:
     repository: https://github.com/draykerdk/dk
     path: docs/README.md
-  last_reviewed: "2026-10-19"
+  last_reviewed: "2026-10-21"

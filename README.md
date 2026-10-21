@@ -1,6 +1,6 @@
 # Dk
 
-Dk is the proposed intelligence of Drayker. It connects personal agents, specialised systems and collective synthesis so that knowledge can support decisions at the scale where they matter. The aim is to expand what people can understand and do, with the members' authority over the purposes and decisions that intelligence serves.
+Dk is the proposed intelligence of Drayker. It works at three scales, personal, local and global, so that knowledge can support decisions at the scale where they matter. The aim is to expand what people can understand and do, with the members' authority over the purposes and decisions that intelligence serves.
 
 **Documentation: [dk.drayker.org](https://dk.drayker.org)**. Published by GitHub Pages from [`docs/`](./docs), which is where the material for this component lives.
 
