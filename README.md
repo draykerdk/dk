@@ -1,6 +1,6 @@
 # Dk
 
-Dk is the proposed intelligence of Drayker. It works at three scales, personal, local and global, so that knowledge can support decisions at the scale where they matter. The aim is to expand what people can understand and do, with the members' authority over the purposes and decisions that intelligence serves.
+Dk, from *Distributed Kernel*, is the proposed intelligence of Drayker, which works at three scales, the personal, the local and the global, and whose core exists spread across the network, without a single centre, in a unified topology. The three scales let knowledge support decisions at the scale where they matter. The aim is to expand what people can understand and do, with the members' authority over the purposes and decisions that intelligence serves.
 
 **Documentation: [dk.drayker.org](https://dk.drayker.org)**. Published by GitHub Pages from [`docs/`](./docs), which is where the material for this component lives.
 
